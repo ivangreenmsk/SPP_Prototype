@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "SPP_Portfolio",
+"productName": "SppPrototype",
 "productVersion": "0.1",
 "dataUrl": "SPP_Prototype.data.unityweb",
 "wasmCodeUrl": "SPP_Prototype.wasm.code.unityweb",
